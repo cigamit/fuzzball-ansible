@@ -2,5 +2,5 @@
 ---
 collections:
 - name: ciq.fuzzball
-  source: ./
+  source: .
   type: dir
